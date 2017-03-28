@@ -91,7 +91,8 @@ A collection of links that summarize EmberConf 2017. There is also a summary rep
 - [Video](/)
 - [Slides](/)
 - Links:
-  - [`liquid-fire`](https://github.com/ember-animation/liquid-fire)
+   - [ember-animation/liquid-fire](https://github.com/ember-animation/liquid-fire)
+   - [simplabs/ember-simple-auth](https://github.com/simplabs/ember-simple-auth)
 
 #### Animate the Web with Ember.js by [Jessica Jordan](https://twitter.com/jjordan_dev)
 
